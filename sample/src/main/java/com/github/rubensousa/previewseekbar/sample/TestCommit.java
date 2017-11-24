@@ -9,5 +9,8 @@ public class TestCommit {
     String m = "哈哈";
     String l = "kj";
     String cll = "oo";
+    String uzi = "联盟第一adc";
+    String mlxg = "联盟强势打野";
+    String faker = "鱼仔";
 
 }
