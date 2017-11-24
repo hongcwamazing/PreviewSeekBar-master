@@ -3,6 +3,7 @@ package com.github.rubensousa.previewseekbar.base;
 
 public interface PreviewView {
 
+    ///接口的时刻记得还是空间的
     int getProgress();
 
     int getMax();
