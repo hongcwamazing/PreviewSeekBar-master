@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PreviewSeekBar-master.iml" filepath="$PROJECT_DIR$/PreviewSeekBar-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/previewseekbar/previewseekbar.iml" filepath="$PROJECT_DIR$/previewseekbar/previewseekbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/previewseekbar-exoplayer/previewseekbar-exoplayer.iml" filepath="$PROJECT_DIR$/previewseekbar-exoplayer/previewseekbar-exoplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>
