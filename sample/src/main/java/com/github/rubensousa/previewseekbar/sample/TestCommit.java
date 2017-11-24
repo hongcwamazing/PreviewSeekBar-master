@@ -7,5 +7,6 @@ package com.github.rubensousa.previewseekbar.sample;
 
 public class TestCommit {
     String m = "哈哈";
+    String l = "kj";
 
 }
